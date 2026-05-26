@@ -1,18 +1,73 @@
-# About Me:
-CURRENTLY WORKING ON:  <br>I’m currently building a full-stack-ready backend application using Java and Spring Boot, focused on secure authentication, role-based access, relational database design, and real-world collaboration workflows. The project includes JWT-based login, protected REST APIs, entity relationships, and business logic for creating, discovering, and managing collaborative groups.
-<br>LOOKING TO COLLABORATE ON:<br>Beginner-to-intermediate Java backend projects, DSA practice repositories, and student-led tech initiatives.
-<br>LOOKING FOR HELP IN: <br>Backend architecture basics, writing scalable Java code, and improving problem-solving efficiency.<br>CURRENTLY LEARNING:  <br>Java backend development, Spring Boot, Spring Security, data structures & algorithms, and system fundamentals.<br>LETS DISCUSS ABOUT <br>Java basics, DSA learning strategies, Git/GitHub, Linux environment, or managing tech events & creatives.<br>FUN FACT:  <br>I enjoy blending tech with creativity—coding by day and designing events & visuals for my CS society.
+<div align="center">
 
+<br>
 
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arindampal0305) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arindam-pal-8b682230b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arindampal0305@gmail.com) 
+```
+  A R I N D A M   P A L
+```
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+<sub>BCA · BIT Mesra Lalpur · Java Backend Developer · Creative Head, CS Society</sub>
 
+<br>
 
-  ##  You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arindampal0305) 
+---
 
-  
+<marquee behavior="scroll" direction="left" scrollamount="3">
+&nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring Security &nbsp;·&nbsp; JWT &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; WebSockets &nbsp;·&nbsp; DSA &nbsp;·&nbsp; Git &nbsp;·&nbsp; Linux &nbsp;·&nbsp; System Design Fundamentals &nbsp;&nbsp;&nbsp;&nbsp;
+</marquee>
 
+<br>
+
+</div>
+
+---
+
+### Currently Building
+
+**Solace** — an anonymous student-counselor platform. Spring Boot backend with JWT auth, role-based access, WebSocket/STOMP messaging, and a React + Tailwind frontend. The kind of project that actually matters on a campus.
+
+**StudyMatcher** — a study group coordination backend. JWT-secured REST API, DTO pattern, GlobalExceptionHandler, Flyway migrations, and full invitation lifecycle management.
+
+---
+
+### What I Work With
+
+| Layer | Tools |
+|---|---|
+| Backend | Java · Spring Boot · Spring Security · Hibernate/JPA |
+| Database | MySQL · Oracle SQL · Flyway |
+| Frontend | React · Tailwind CSS · Vite |
+| Real-time | WebSockets · STOMP |
+| Auth | JWT · RBAC |
+| Dev | Git · IntelliJ IDEA · Postman · Linux |
+
+---
+
+### Beyond the Backend
+
+I run the **Dev Notes** series on LinkedIn — a documented trail of what I'm actually learning, not a highlight reel.  
+I'm Creative Head at the college CS Society, which means technical depth meets event design and visual work.  
+I think clearly about architecture before I write code. I care about structure.
+
+---
+
+### Open to
+
+Collaboration on beginner-to-intermediate Java backend projects · DSA practice repos · student-led tech initiatives
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arindam-pal-8b682230b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arindampal0305)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://arindampal.vercel.app)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arindampal0305@gmail.com)
+
+<br>
+
+<sub>he/him &nbsp;·&nbsp; BIT Mesra, Lalpur Campus &nbsp;·&nbsp; Expected 2027</sub>
+
+<br>
+
+</div>
